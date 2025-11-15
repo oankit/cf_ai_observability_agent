@@ -4,6 +4,14 @@
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com)
 
+
+### 🎥 Demo Video
+
+
+https://github.com/user-attachments/assets/a0b243a3-a959-45ed-8125-0cc312323417
+
+
+
 ## 🚀 Live Demo
 
 **Deployed URL:** [cf-ai-observability-agent.omar-ankit2001.workers.dev](https://cf-ai-observability-agent.omar-ankit2001.workers.dev)
